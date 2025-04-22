@@ -2,18 +2,25 @@
 autoinstall:
     version: 1
     identity:
-        realname: 'Dionatan Simioni'
+        realname: 'Marcelo Luiz'
         hostname: ubuntu-desktop
-        username: diolinux
-        password: '$y$j9T$uhkxlm8nUQaNu.6rl4k2d.$DIldpYy96OHg8lFjfXfc671BZcGWkPOmaDONGAhGSg3'
+        username: mlluiz
+        password: 'ff08a3e84597fd970ef03046984a0d629e3a232b'
     locale: pt_BR.utf8
     keyboard:
         layout: br
     timezone: "America/Sao_Paulo"   
     packages:
         - libreoffice
-        - gimp
+        - vscode
         - git
+        - android-studio
+        - zsh
+        - nvm
+        - curl
+        - chrome
+        - snapd
+        - gnome-tweaks
         - wget
     snaps:
         - name: spotify

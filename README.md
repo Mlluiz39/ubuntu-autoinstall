@@ -1,4 +1,4 @@
-# Ubuntu autoinstall config file sample by Diolinux
+# Ubuntu autoinstall config file sample b Mlluiz39
 
 This is a sample file, it can be used as a reference for your own installations.
 The password is: 123
